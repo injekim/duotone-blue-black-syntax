@@ -1,4 +1,4 @@
-# DuoTone blue-black
+# DuoTone Blue Black
 
 <img src="https://github.com/k0626089/duotone-blue-black-syntax/raw/master/docs/screenshot.png" width="700">
 
