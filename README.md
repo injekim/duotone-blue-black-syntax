@@ -2,9 +2,7 @@
 
 <img src="https://github.com/k0626089/duotone-blue-black-syntax/raw/master/docs/screenshot.png" width="700">
 
-## What is DuoTone Blue Black?
-
-DuoTone Blue Black is a syntax theme for atom editor based on DuoTone.
+#### Syntax theme for atom based on DuoTone.
 
 ## How do I install it?
 - You can search "DuoTone Blue Black" in the setting menu.  
